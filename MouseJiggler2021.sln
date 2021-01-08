@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseJiggler2021", "MouseJiggler2021.csproj", "{AFBEECF8-BA3F-458B-9C7E-2B912D66FE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBEECF8-BA3F-458B-9C7E-2B912D66FE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBEECF8-BA3F-458B-9C7E-2B912D66FE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBEECF8-BA3F-458B-9C7E-2B912D66FE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBEECF8-BA3F-458B-9C7E-2B912D66FE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95FC339B-E017-49C8-90AF-94BE790F51BF}
+	EndGlobalSection
+EndGlobal
